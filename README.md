@@ -2,6 +2,15 @@
 
 > **注意：此版本是基于 BeyondMimic 之上，加入了 G1_23dof 机器人训练支持的扩展版本。**
 
+## 📄 原始项目信息
+
+**原始项目**: [BeyondMimic](https://github.com/HybridRobotics/whole_body_tracking)  
+**原始作者**: [HybridRobotics](https://github.com/HybridRobotics)  
+**论文**: [BeyondMimic: Versatile Humanoid Control with Guided Diffusion](https://arxiv.org/abs/2508.08241)  
+**许可证**: [MIT License](https://opensource.org/license/mit)
+
+本项目是基于 BeyondMimic 的扩展版本，遵循 MIT 许可证。所有原始代码的版权归原始作者所有。
+
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-4.5.0-silver.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
 [![Isaac Lab](https://img.shields.io/badge/IsaacLab-2.1.0-silver)](https://isaac-sim.github.io/IsaacLab)
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://docs.python.org/3/whatsnew/3.10.html)
