@@ -140,7 +140,7 @@ Thumbs.db
 logs/
 outputs/
 g1/
-data_comap/
+data_MoCap/
 UNKNOWN.egg-info/
 
 # WandB
