@@ -139,7 +139,8 @@ Thumbs.db
 # Project specific
 logs/
 outputs/
-g1/
+# Root level g1 data directory only
+/g1/
 data_MoCap/
 UNKNOWN.egg-info/
 
